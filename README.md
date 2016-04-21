@@ -1,5 +1,4 @@
-Folktale
-=======
+# ![Folktale](https://raw.githubusercontent.com/origamitower/folktale/chore/logo/resources/folktale-title.png)
 
 [![Documentation status](https://readthedocs.org/projects/folktalegithubio/badge/?version=latest&style=flat-square)](http://docs.folktalejs.org/)
 [![Build status](https://img.shields.io/travis/origamitower/folktale/master.svg?style=flat-square)](https://travis-ci.org/origamitower/folktale)
