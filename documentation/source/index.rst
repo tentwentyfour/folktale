@@ -1,5 +1,5 @@
-Folktale —at a glance—
-======================
+The Folktale Documentation
+==========================
 
 Folktale is a standard library for functional programming
 using TypeScript (although it works just as well in plain
