@@ -38,7 +38,7 @@ Support
    * :doc:`Frequently Asked Questions <support/faq>`
          Answers to some common questions people have when using Folktale.
 
-   * :doc:`Reporting bugs <support/reporting>`nn
+   * :doc:`Reporting bugs <support/reporting>`
          How and where to report errors (or missing/confusing documentation)
          in Folktale.
 
