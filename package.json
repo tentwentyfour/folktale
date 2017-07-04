@@ -40,6 +40,8 @@
     "nyc": "^11.0.2",
     "uglify-js": "^2.7.3"
   },
+  "name": "folktale",
+  "version": "2.0.0",
   "nyc": {
     "require": [
       "babel-register"
